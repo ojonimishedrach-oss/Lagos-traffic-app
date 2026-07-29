@@ -67,4 +67,4 @@ if st.button("Predict Congestion", type="primary"):
         st.progress(float(prob_dict.get(level, 0)), text=f"{level}: {prob_dict.get(level, 0)*100:.1f}%")
 
 st.divider()
-st.caption("3MTT Capstone Project — Traffic Congestion Predictor for Lagos Commuters")
+st.caption("3MTT Capstone Project by Idris Shedrach Ojonimi — Traffic Congestion Predictor for Lagos Commuters")
