@@ -1,4 +1,4 @@
-# Lagos Traffic Congestion Predictor
+# Lagos Traffic Congestion Predictor By Idris Shedrach Ojonimi
 **Author:** Idris Shedrach Ojonimi
 3MTT Capstone Project — predicts traffic congestion level (Low/Medium/High) 
 on a Lagos route at a given time, using historical traffic pattern data.
