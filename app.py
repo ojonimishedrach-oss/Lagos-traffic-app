@@ -6,8 +6,8 @@ st.set_page_config(page_title="Lagos Traffic Congestion Predictor", page_icon="ð
 
 @st.cache_resource
 def load_model():
-    model = joblib.load("models/congestion_model.pkl")
-    route_encoder = joblib.load("models/route_encoder.pkl")
+    model = joblib.load("congestion_model.pkl")
+    route_encoder = joblib.load("route_encoder.pkl")
     return model, route_encoder
 
 model, route_encoder = load_model()
