@@ -4,7 +4,7 @@
 on a Lagos route at a given time, using historical traffic pattern data.
 
 ## Live App
-Try it here: [add your Streamlit link here once deployed]
+Try it here: https://lagos-traffic-app-ha6wbhwv3n3fn7srsfenyf.streamlit.app/
 
 ## How it works
 - Trained on historical route + time + weather data
